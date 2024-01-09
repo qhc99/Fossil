@@ -1,2 +1,0 @@
-# Fossil
-A blog
