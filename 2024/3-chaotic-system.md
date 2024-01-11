@@ -1,4 +1,4 @@
-# The future is determined from the big bang
+# The future is determined since the big bang
 
 ## Chaotic system
 
