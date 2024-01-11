@@ -1,3 +1,3 @@
 # Words that carved on the stone
 
-## [LICENSE](/LICENSE)
+## [LICENSE](/LICENSE.md)
