@@ -2,4 +2,4 @@
 
 ## History of dinosaur and mammal
 
-## The advantage of ecological niche
+## Why it is good that every life has limited life span
