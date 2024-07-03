@@ -1,7 +1,7 @@
-# How do you know you are using the right way to hire?
+# How do you know you are good at hiring?
 
 ## Two dimensions
 
 ## Two strategies
 
-## You need tracking
+## Tracking
